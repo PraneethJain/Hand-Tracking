@@ -2,7 +2,6 @@ import pyautogui
 import cv2
 import pygame as pg
 import numpy as np
-from rich import print
 from cvzone.HandTrackingModule import HandDetector
 from settings import *
 from image import *
